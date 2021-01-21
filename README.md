@@ -1,6 +1,6 @@
 # CashPlus.github.io
 The Sparks Foundation Internship Project : Basic Banking System-Cash Plus       
-Made By-Akanksha Bharne
+Made By-Akanksha Bharne                                                     
 A Web Application used to transfer money between multiple users (Project contains 10 dummy users). A dummy user can also be created.     
 
 Database contains two Tables- Users Table & Transaction Table  
